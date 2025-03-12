@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: sx854fw6p-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/sx854fw6p-java-springboot
